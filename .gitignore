@@ -3,3 +3,5 @@ out/
 *.class
 *.iml
 td.md
+patterns.db
+basedir/
